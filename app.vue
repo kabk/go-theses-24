@@ -19,8 +19,6 @@
 		ogTitle: meta.title,
 	})
 
-	const siema = 'siema'
-
 	useSeoMeta({
 		title: meta.title,
 		ogTitle: meta.title,
