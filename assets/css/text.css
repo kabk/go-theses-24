@@ -1,0 +1,18 @@
+:root {
+}
+
+@media screen and (max-width: 600px) {
+	:root {
+		/* --space-s: 4px;
+		--space-m: 10px;
+		--space-l: 10vw;
+		--space-xl: 20vw; */
+	}
+}
+
+html {
+	font-size: 15px;
+}
+
+body {
+}
