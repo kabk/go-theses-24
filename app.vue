@@ -8,7 +8,7 @@
 
 <script setup>
 	const meta = {
-		title: 'KABK GD Theses 24',
+		title: 'KABK GD Theses 2024',
 		desc: '',
 		image: '',
 	}
