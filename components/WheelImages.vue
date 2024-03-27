@@ -8,7 +8,7 @@
 		>
 			<img
 				class="image"
-				:src="`/gd-24-theses/images/${slide.image}`"
+				:src="`/go-theses-24/images/${slide.image}`"
 				alt=""
 				srcset=""
 			/>
