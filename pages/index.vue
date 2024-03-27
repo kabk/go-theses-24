@@ -177,7 +177,7 @@
 	onMounted(() => {
 		setTimeout(() => {
 			landing.value = false
-		}, 3000)
+		}, 1900)
 	})
 
 	function sortData(arr, prop) {
