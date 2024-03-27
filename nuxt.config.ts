@@ -3,7 +3,7 @@ export default defineNuxtConfig({
 	devtools: { enabled: false },
 	css: ['~/assets/css/index.css'],
 	app: {
-		baseURL: '/gd-24-theses/',
+		baseURL: '/go-theses-24/',
 		pageTransition: {
 			name: 'fade',
 			mode: 'out-in',
