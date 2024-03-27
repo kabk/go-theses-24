@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 				{
 					rel: 'icon',
 					type: 'image/x-icon',
-					href: '/gd-24-theses/favicon.ico',
+					href: '/go-theses-24/favicon.ico',
 				},
 			],
 		},
