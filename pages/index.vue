@@ -339,6 +339,7 @@
 				padding: var(--space-s);
 				height: auto;
 				padding-left: var(--space-m);
+				padding-right: var(--space-m);
 			}
 		}
 		& > .landing {
